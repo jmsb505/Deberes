@@ -1,0 +1,4 @@
+3. Load 14 carga el item en address 14 (7)
+add con () considera que 12 es un memory address y carga su 
+primer valor porque no se especifica el indice 
+store carga el resultado de la suma 7+5 en el address 12  

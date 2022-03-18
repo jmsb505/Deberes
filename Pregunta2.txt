@@ -1,0 +1,5 @@
+2.
+a)
+
+b)
+2^16=65,536 porque el es 16bitword 
